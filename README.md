@@ -1,4 +1,5 @@
-# Scientific Computing
+# Scientific Computing :computer: :books:
+
 
 
 ### Contents
