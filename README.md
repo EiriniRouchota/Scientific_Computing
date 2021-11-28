@@ -1,13 +1,14 @@
 # Scientific Computing
 
+
 Contents
 
-*Introduction
+- Introduction
 
-*BCRS (Block CRS) 
+- BCRS (Block CRS) 
 
-*Tensors & Paths 
+- Tensors & Paths 
 
-*Statistical analysis of Sparse Arrays 
+- Statistical analysis of Sparse Arrays 
 
-*Special Arrays 
+- Special Arrays 
