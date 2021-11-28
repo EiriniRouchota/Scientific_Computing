@@ -1,7 +1,7 @@
 # Scientific Computing
 
 
-Contents
+### Contents
 
 - Introduction
 
